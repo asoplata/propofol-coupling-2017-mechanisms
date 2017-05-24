@@ -11,10 +11,11 @@ Adding these mechanism files and associated functions into where you keep your m
 
 This model was inherited from:
 
-   Ching, S., Cimenser, A., Purdon, P. L., Brown, E. N., & Kopell, N. J.
-   (2010). Thalamocortical model for a propofol-induced alpha-rhythm
-   associated with loss of consciousness. Proceedings of the National Academy
-   of Sciences, 107(52), 22665–22670. http://doi.org/10.1073/pnas.1017069108
+    Ching, S., Cimenser, A., Purdon, P. L., Brown, E. N., & Kopell, N. J.
+    (2010). Thalamocortical model for a propofol-induced alpha-rhythm
+    associated with loss of consciousness. Proceedings of the National
+    Academy of Sciences, 107(52), 22665–22670.
+    http://doi.org/10.1073/pnas.1017069108
 
 Note that this code diverges from the given equations of (Ching et al., 2010)
 due to typos and errors in the original equations. The code contained here has
@@ -45,7 +46,7 @@ mimic the cortex's input.
 
 These mechanism files are AS THEY WERE USED originally, which means they were
 used under a version of DynaSim likely using the following commit:
-https://github.com/DynaSim/DynaSim/commit/4a20467848a82673492ee06322acd3505e8c1788
+[4a20467](https://github.com/DynaSim/DynaSim/commit/4a20467848a82673492ee06322acd3505e8c1788)
 
 If you want a COMPLETE installation to reproduce the simulations used in the
 paper, go to
