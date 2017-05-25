@@ -21,8 +21,9 @@ Note that this code diverges from the given equations of (Ching et al., 2010)
 due to typos and errors in the original equations. The code contained here has
 been ground-truthed and cross-checked across both the original code run for the
 paper and the source material that THAT code is based on, several times. In
-other words, the code contained here is **more** correct than the equations in
-the paper.
+other words, the code contained here, used in (Soplata et al., 2017), is
+**more** correct than the equations in the Supplementary Information of (Ching
+et al., 2010).
 
 ## Install
 
