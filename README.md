@@ -3,13 +3,18 @@
  DynaSim-compatible mechanism files for simulation of the thalamus of (Soplata
  et al., 2017), inherited from (Ching et al., 2010).
 
-Adding these mechanism files and associated functions into where you keep your mechanism files for [DynaSim](https://github.com/DynaSim/DynaSim), e.g. `/your/path/to/dynasim/models`, should enable you to simulate the computational thalamus from:
+Adding these mechanism files and associated functions into where you keep your
+mechanism files for [DynaSim](https://github.com/DynaSim/DynaSim), e.g.
+`/your/path/to/dynasim/models`, should enable you to simulate the computational
+thalamus [from this
+paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005879):
 
     Soplata AE, McCarthy MM, Sherfey J, Lee S, Purdon PL, Brown EN, et al.
     Thalamocortical control of propofol phase-amplitude coupling. PLOS
     Computational Biology. 2017;13: e1005879. doi:10.1371/journal.pcbi.1005879
 
-This model was inherited from:
+This model was inherited [from this
+paper](https://www.ncbi.nlm.nih.gov/pubmed/21149695):
 
     Ching, S., Cimenser, A., Purdon, P. L., Brown, E. N., & Kopell, N. J.
     (2010). Thalamocortical model for a propofol-induced alpha-rhythm
